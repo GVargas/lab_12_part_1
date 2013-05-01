@@ -2,7 +2,7 @@
 title: Practice
 ---
 
-# About
+# Practice
 
 ## Topics
 
