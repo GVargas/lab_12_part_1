@@ -8,8 +8,8 @@ title: Practice
 
 * [wikipedia page 1](http://en.wikipedia.org/wiki/Fast_%26_Furious)
 * [wikipedia page 2](http://en.wikipedia.org/wiki/Transformers_%28film%29)
-	* html
-	* markdown
+	* Stance Will Make Her Dance
+	* Spool Will Make Her Drool
 *__css__ frameworks
 * Nice _rides_ 
 
